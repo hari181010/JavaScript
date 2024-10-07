@@ -1,2 +1,2 @@
 # JavaScript
-A series of JavaScript codes
+A series of JavaScript codes and uses
